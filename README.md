@@ -46,3 +46,5 @@ GUI Interface
 
 **Author**
 Sweta Kumari Ranjan
+
+<img width="896" height="175" alt="LLM Commands" src="https://github.com/user-attachments/assets/f3ab345e-4dd1-443d-8264-c210e31be762" />
